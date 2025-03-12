@@ -1,10 +1,8 @@
 # so_long
 
-This is my version of the project so_long from school 42. (110/100)
+This is my version of the project so_long from school 42. (110/100✅)
 
 ## How to install
-
-### Step by step
 
 Clone the project :
 
